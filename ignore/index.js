@@ -1,0 +1,1 @@
+console.log("tghis is the best class ever");
